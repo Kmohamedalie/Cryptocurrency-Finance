@@ -1,4 +1,4 @@
-# **Crypto price 🪙 visualization 📈 using historical [CoinMarketCap](https://coinmarketcap.com/) data**
+# **Analysing Crypto🪙 prices 📈 using historical [CoinMarketCap](https://coinmarketcap.com/) data**
 [Bitcoin (BTC)](https://coinmarketcap.com/currencies/bitcoin/) and [Ether (ETH)](https://coinmarketcap.com/currencies/ethereum/) price from early 2013 for BTC and 2015 for ETH.
 
 <br>
@@ -15,15 +15,16 @@ If you're interested in learning about Fintech Technologies list of courses reco
 
 <br>
 
-**THE VIZ:**
+## **THE VIZ:**
 
-![image](https://github.com/Kmohamedalie/Cryptocurrency-Finance/assets/63104472/2e0d37a9-8ea0-4e2e-8913-21c43becdda3)
+### **BTC price 2013 - 2024**
+![image](https://github.com/Kmohamedalie/Cryptocurrency-Finance/assets/63104472/2e0d37a9-8ea0-4e2e-8913-21c43becdda3) <br>
 
+### **BTC simple rate of return 2013 - 2024**
+![image](https://github.com/Kmohamedalie/Cryptocurrency-Finance/assets/63104472/ec9e8f72-542b-4ff8-91e6-c30acaec7b01) <br>
 
-![image](https://github.com/Kmohamedalie/Cryptocurrency-Finance/assets/63104472/9d0a9f97-6e26-4b97-8d83-b1bbb24b787f)
+### **ETH price 2015 - 2024**
+![image](https://github.com/Kmohamedalie/Cryptocurrency-Finance/assets/63104472/9d0a9f97-6e26-4b97-8d83-b1bbb24b787f) <br>
 
-
-![image](https://github.com/Kmohamedalie/Cryptocurrency-Finance/assets/63104472/ec9e8f72-542b-4ff8-91e6-c30acaec7b01)
-
-
+### **ETH simple rate of return 2015 - 2024**
 ![image](https://github.com/Kmohamedalie/Cryptocurrency-Finance/assets/63104472/48e29f1a-6eff-4f4d-a831-28ce469dfe90)
