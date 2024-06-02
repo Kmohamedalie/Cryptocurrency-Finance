@@ -7,7 +7,7 @@
 
 <br>
 
-If you're interested in learning about Fintech Technologies list of courses recommended:
+If you're interested in learning about Financial Technologies please check out this list of courses recommended 👇:
 
 [FinTech Industry Professional (FTIP™) Certification](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/) <br>
 [Blockchain and Cryptocurrency Explained by University of Michigan](https://www.coursera.org/learn/crypto-finance) <br>
